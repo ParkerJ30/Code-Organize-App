@@ -1,1 +1,2 @@
 # Code-Organize-App
+This app was the first app that I created using swift in Xcode. I created this app in order to input my exisiting code in so I wouldnt have to relearn how to do everything. In this app I learned how to use tab and scroll views. I also learned how to switch pages and create icons for the app. I learned this code mostly by searching it up and using apple developer. Overall I was really proud of this app and really helped me understand the basics of swift.
